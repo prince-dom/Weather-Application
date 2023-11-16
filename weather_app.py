@@ -2,7 +2,7 @@ import json
 import requests
 
 query = input("Enter Your City Country or Country Name : " )
-url = "http://api.weatherapi.com/v1/current.json?key=1b5144912d694ca2ba575632233007&q="
+url = "http://api.weatherapi.com/v1/current.json?key=1bxxxxxxxxxxxxxxxxxxxxxxxxxxxx&q="
 
 
 try:
